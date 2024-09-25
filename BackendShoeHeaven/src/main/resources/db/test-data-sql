@@ -1,0 +1,1 @@
+INSERT INTO shoe (name, brand, style, number, quantity, color, image, price) VALUES
